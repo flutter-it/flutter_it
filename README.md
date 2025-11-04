@@ -120,3 +120,9 @@ For detailed guides on each package, visit the documentation site.
 ## Sponsoring
 
 If you find the flutter_it ecosystem useful, consider [sponsoring the development](https://github.com/sponsors/escamoteur/).
+
+---
+
+<div align="center">
+  <img src="https://github.com/flutter-it/flutter_it/blob/main/flutter_it.png?raw=true" alt="flutter_it logo" width="200"/>
+</div>
