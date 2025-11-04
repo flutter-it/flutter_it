@@ -1,3 +1,7 @@
+## 1.0.2
+
+* Add screenshot logo reference at bottom of README for pub.dev
+
 ## 1.0.1
 
 * Fix logo colors in README and screenshot
