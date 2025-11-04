@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/flutter-it/flutter_it/blob/main/flutter_it.png?raw=true" alt="flutter_it logo" width="150" style="margin-left: -10px;"/>
+<img align="left" src="https://flutter-it.dev/images/main-logo.svg" alt="flutter_it logo" width="150" style="margin-left: -10px;"/>
 
 <div align="right">
   <a href="https://www.buymeacoffee.com/escamoteur"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="28" width="120"/></a>
