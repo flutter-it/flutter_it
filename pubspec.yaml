@@ -1,0 +1,29 @@
+name: flutter_it
+description: A convenience package that re-exports the entire flutter_it ecosystem - get_it, watch_it, command_it, and listen_it. Import once, use all the reactive state management tools.
+version: 1.0.0
+maintainer: Thomas Burkhart (@escamoteur)
+homepage: https://github.com/flutter-it/flutter_it
+repository: https://github.com/flutter-it/flutter_it
+funding:
+  - https://github.com/sponsors/escamoteur/
+
+screenshots:
+  - description: 'flutter_it logo'
+    path: flutter_it.png
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  get_it: ^9.0.0
+  watch_it: ^2.0.0
+  command_it: ^8.0.0
+  listen_it: ^5.3.0
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
