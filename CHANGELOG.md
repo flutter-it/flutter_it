@@ -1,3 +1,9 @@
+## 1.0.1
+
+* Fix logo colors in README and screenshot
+* Use main logo from docs site in README header
+* Increase logo size for better visibility
+
 ## 1.0.0
 
 * Initial release
