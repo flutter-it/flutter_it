@@ -1,3 +1,11 @@
+## 2.0.1
+
+Updated all dependencies to latest versions:
+* get_it: ^9.1.1 (was ^9.0.5)
+* watch_it: ^2.3.1 (was ^2.1.1)
+* command_it: ^9.4.2 (was ^9.0.2)
+* listen_it: ^5.3.4 (was ^5.3.3)
+
 ## 2.0.0
 
 **BREAKING CHANGE**: Updated to command_it ^9.0.2 which includes breaking API changes:
