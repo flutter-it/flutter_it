@@ -1,3 +1,7 @@
+## 2.1.1
+
+* watch_it: ^2.4.1 (was ^2.4.0) - Fixed `allReady()` returning stale value when new async singletons registered
+
 ## 2.1.0
 
 Updated get_it and watch_it with improved `allReady()` behavior:

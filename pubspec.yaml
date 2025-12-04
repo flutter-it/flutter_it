@@ -1,6 +1,6 @@
 name: flutter_it
 description: A convenience package that re-exports the entire flutter_it ecosystem - get_it, watch_it, command_it, and listen_it. Import once, use all the reactive state management tools.
-version: 2.1.0
+version: 2.1.1
 maintainer: Thomas Burkhart (@escamoteur)
 homepage: https://github.com/flutter-it/flutter_it
 repository: https://github.com/flutter-it/flutter_it
@@ -17,7 +17,7 @@ environment:
 
 dependencies:
   get_it: ^9.2.0
-  watch_it: ^2.4.0
+  watch_it: ^2.4.1
   command_it: ^9.4.2
   listen_it: ^5.3.4
   flutter:
