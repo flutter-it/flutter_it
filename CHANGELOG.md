@@ -1,3 +1,9 @@
+## 2.1.0
+
+Updated get_it and watch_it with improved `allReady()` behavior:
+* get_it: ^9.2.0 (was ^9.1.1) - `allReady()` now caches its Future for proper scope change detection
+* watch_it: ^2.4.0 (was ^2.3.1) - `allReady()` now properly detects async registrations in pushed scopes
+
 ## 2.0.1
 
 Updated all dependencies to latest versions:
